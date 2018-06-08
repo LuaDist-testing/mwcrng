@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "mwcrng"
-version = "1.1-1"
+version = "1.2-1"
 -- LuaDist source
 source = {
-  tag = "1.1-1",
+  tag = "1.2-1",
   url = "git://github.com/LuaDist-testing/mwcrng.git"
 }
 -- Original source
 -- source = {
 --     url = "git://github.com/ratanvarghese/mwcrng",
---     tag = "v1.1"
+--     tag = "v1.2"
 -- }
 description = {
     summary = "A Multiply-With-Carry Pseudorandom Number Generator.",
